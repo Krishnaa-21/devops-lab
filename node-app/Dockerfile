@@ -2,11 +2,13 @@ FROM  node:12.2.0-alpine
 
 WORKDIR /node
 
+COPY package*.json ./
+
 RUN npm install
 
-RUN npm run test
-
 COPY . .
+
+RUN npm run test
 
 EXPOSE 8000
 
