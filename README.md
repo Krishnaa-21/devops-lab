@@ -1,8 +1,8 @@
-# 🐳 Docker Lab
+# Docker Lab 🐳
 
 <div align="center">
 
-<h2>🚀 Docker Practice Projects & Hands-on Learning</h2>
+<h2>🚀 Hands-on Docker Learning Repository</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -12,84 +12,82 @@
 
 <p>
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Updated-Regularly-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made_for-Learning-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Docker-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Goal-DevOps_Fundamentals-orange?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-## 📌 About Repository
+## 📌 About
 
-**Docker Lab** is a collection of Docker practice projects, experiments, and hands-on learning resources.
-
-This repository is created to practice Docker concepts step by step and understand how containers are used in real-world DevOps workflows.
+A hands-on Docker learning repository containing **Docker commands, Dockerfiles, containerization projects, networking, volumes, Docker Compose, and real-world practice exercises**.
 
 ---
 
-## 📚 This Repository Includes
+## 📚 Topics Covered
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Docker-Topics-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Topics-Covered-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
 <br>
 
-- 🐳 **Docker basics**
-- 📄 **Dockerfile practice**
-- 📦 **Containerized applications**
-- 🧩 **Docker Compose projects**
-- 🌐 **Networking and volumes**
-- 🔗 **Multi-container setups**
-- ⚙️ **DevOps learning experiments**
+- 🐳 Docker Installation
+- 🖼️ Docker Images
+- 📦 Docker Containers
+- 💻 Docker Commands
+- 📄 Dockerfile
+- 💾 Docker Volumes
+- 🌐 Docker Networking
+- ⚙️ Docker Compose
+- 🔗 Multi-Container Applications
 
 ---
 
-## 🎯 Purpose
-
-The main purpose of this repository is to build practical understanding of Docker through small projects, examples, and experiments.
-
-It is useful for:
-
-- Practicing Docker commands
-- Understanding Dockerfile creation
-- Running applications inside containers
-- Learning Docker Compose basics
-- Exploring networking and volume concepts
-- Improving DevOps project structure
-
----
-
-## 🔄 Repository Updates
+## 🛠️ Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Repository-Regularly_Updated-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Practice-Projects-success?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
 <br>
 
-The repository is regularly updated with new practice solutions, Docker examples, and learning projects.
+- 🌐 Flask App Containerization
+- 🗄️ MySQL Container Setup
+- 🧱 Two-Tier Application
+- ⚙️ Docker Compose Projects
 
 ---
 
-## 🚀 Learning Focus
+## 🎯 Learning Goal
 
 <div align="center">
 
-| Topic | Focus |
-|------|-------|
-| 🐳 Docker Basics | Learn core Docker concepts |
-| 📄 Dockerfile | Practice writing Dockerfiles |
-| 📦 Containers | Run applications in containers |
-| 🧩 Docker Compose | Work with multi-container setups |
-| 🌐 Networking | Understand container communication |
-| 💾 Volumes | Learn data persistence |
-| ⚙️ DevOps Practice | Build hands-on workflow knowledge |
+<img src="https://img.shields.io/badge/Learning-Goal-orange?style=for-the-badge&logo=target&logoColor=white" />
+
+</div>
+
+<br>
+
+Build strong **Docker** and **DevOps fundamentals** through practical implementation.
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Created_by-Krishna_Prajapat-blueviolet?style=for-the-badge" />
+
+<br><br>
+
+**Krishna Prajapat**
 
 </div>
 
@@ -97,7 +95,7 @@ The repository is regularly updated with new practice solutions, Docker examples
 
 <div align="center">
 
-### 🐳 Keep Practicing. Keep Learning. Keep Building.
+### 🐳 Keep Learning Docker. Keep Building DevOps Skills.
 
 <img src="https://img.shields.io/badge/Happy-Dockerizing!-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
